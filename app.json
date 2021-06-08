@@ -1,0 +1,12 @@
+{
+  "name": "spongy8",
+  "displayName": "spongy8",
+  "expo": {
+    "name": "spongy8",
+    "slug": "spongy8",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
